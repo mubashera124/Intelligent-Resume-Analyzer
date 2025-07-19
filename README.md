@@ -1,7 +1,8 @@
-##🧠 Intelligent Resume Analyzer
+## 🧠 **Intelligent Resume Analyzer**
+
 The Intelligent Resume Analyzer is a prototype system that extracts structured candidate information from unstructured resumes, including PDFs and image-based files. It aims to automate the resume screening process by identifying key details such as name, contact, skills, education, experience, and more.
 
-📌 Features
+**📌 Features**
 ✅ Extracts data from both PDF and image (JPG/PNG) resumes
 
 🔍 Uses PyMuPDF for PDF parsing and pytesseract for OCR on images
